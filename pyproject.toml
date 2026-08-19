@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-harness"
+version = "0.1.0"
+description = "A fail-closed execution control layer for AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Changzhi AI" }]
+urls = { Homepage = "https://www.changzhiai.com/harness", Repository = "https://github.com/metahuan/autoexHarness" }
+keywords = ["ai-agent", "harness", "guardrails", "pdca", "tool-calling"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
