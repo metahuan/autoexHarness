@@ -8,6 +8,8 @@ Agent Harness is a fail-closed control layer for ordinary AI agents. It sits bet
 
 GitHub 仓库：[metahuan/autoexHarness](https://github.com/metahuan/autoexHarness)
 
+Releases：[查看版本发布](https://github.com/metahuan/autoexHarness/releases)
+
 ## Why agents need a Harness
 
 Most agent frameworks optimize for making the next tool call. Production systems also need an independent component that can say no.
