@@ -91,7 +91,7 @@ An implementation is compatible when it preserves these invariants:
 - `v0.3`: framework integrations and trace viewer.
 - `v1.0`: stable protocol, compatibility suite, security documentation.
 
-Production extraction details and the open-source narrative are maintained in [`../../docs/Harness开源实现方案与叙事.md`](../../docs/Harness开源实现方案与叙事.md).
+The public landing page contains the product narrative and integration direction: [changzhiai.com/harness](https://www.changzhiai.com/harness?utm_source=github&utm_medium=referral&utm_campaign=agent_harness&utm_content=readme_protocol).
 
 For a managed business runtime built around governed execution, visit [畅智 AI](https://www.changzhiai.com/account?utm_source=github&utm_medium=referral&utm_campaign=agent_harness&utm_content=readme_bottom).
 
